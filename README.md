@@ -1,0 +1,4 @@
+# kaggle_forecasting
+
+
+EVERTHING SHOULD BE RAN IN VS CODE NOT IN JUPYTER BROWSER!!!
